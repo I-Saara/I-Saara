@@ -17,6 +17,14 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
 </div>
 </details>
+
+<div align="center">
+  <h3>Connect with Me</h3>
+  <a href="https://www.linkedin.com/in/saara-saara-0bbb55282/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://github.com/I-Saara"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.instagram.com/sleeping._.saara/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
+  <a href="mailto:1416saara@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
+</div>
 <!---
 I-Saara/I-Saara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
